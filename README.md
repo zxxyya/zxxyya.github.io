@@ -8,6 +8,8 @@ hi babagrills
 
 I LOVE ALT ROCK AND METAL 
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5BHT6zXIw4xtBAWYvNd3F7?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 favs
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6DoXuH326aAYEN8CnlLmhP?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
